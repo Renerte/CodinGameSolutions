@@ -4,6 +4,7 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made mostly 
 Available solutions:
 * Onboarding (onboarding.go)
 * Power of Thor (powerofthor.go)
+* ASCII Art (ascii.go)
 * Horse-racing Duals (horses.go)
 
 Thanks for visiting this repo :)
