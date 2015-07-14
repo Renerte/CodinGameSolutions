@@ -1,10 +1,11 @@
 # CodinGameSolutions
 These are my solutions to [CodinGame](http://codingame.com) puzzles made mostly in Go. I don't plan on adding my non-Go solutions, as I think Go is much more clearer and I'll redo all of them in Go anyway.
 
-Available solutions:
+###Available solutions:
 * Onboarding (onboarding.go)
 * Power of Thor (powerofthor.go)
 * ASCII Art (ascii.go)
+* MIME Type (mimetype.go)
 * Horse-racing Duals (horses.go)
 
 Thanks for visiting this repo :)
