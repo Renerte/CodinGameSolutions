@@ -4,6 +4,7 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 ###Available solutions:
 * Onboarding (onboarding.go)
 * Power of Thor (powerofthor.go)
+* Mars Lander - Level 1 (lander.go - read included info before code itself)
 * ASCII Art (ascii.go)
 * Chuck Norris (chuck.go)
 * MIME Type (mimetype.go)
