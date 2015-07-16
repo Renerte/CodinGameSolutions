@@ -3,7 +3,12 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 
 ###Available solutions:
 * Onboarding (onboarding.go)
+
+####Easy:
 * Power of Thor (powerofthor.go)
+* The Descent (descent.go)
+* Skynet: the Chasm (skynet_chasm.go)
+* Temperatures (temperatures.go)
 * Mars Lander - Level 1 (lander.go - read included info before code itself)
 * ASCII Art (ascii.go)
 * Chuck Norris (chuck.go)
@@ -12,12 +17,6 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 * Horse-racing Duals (horses.go)
 
 ###Redoing queue:
-####Easy:
-* The Descent
-* Skynet: the Chasm
-* Temperatures
-* Mars Lander - Level 1 (that will take some time)
-
 ####Medium:
 * APU: Init Phase
 * Skynet: the Virus
@@ -25,6 +24,8 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 * The Paranoid Android
 
 > As you see, there's a lot for me to cover as far as my old (non-Go) solutions go. Now I'm mostly completing other challenges, but I will for sure redo each of solutions above.
+
+> //UPDATE: All easy challenges are now available \o/ Off to medium ones!
 
 Thanks for visiting this repo :)
 [My CodinGame profile](https://www.codingame.com/profile/038dcafe98eef32a5b0f6a9f9bce3e30600888)
