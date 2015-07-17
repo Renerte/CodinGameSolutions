@@ -2,9 +2,10 @@
 These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. Informations about non-Go solutions are below "Available Solutions"
 
 ###Available solutions:
+#####Tutorial:
 * Onboarding (onboarding.go)
 
-####Easy:
+#####Easy:
 * Power of Thor (powerofthor.go)
 * The Descent (descent.go)
 * Skynet: the Chasm (skynet_chasm.go)
@@ -16,9 +17,11 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 * Defibrillators (defibrillators.go)
 * Horse-racing Duals (horses.go)
 
+#####Medium:
+* APU: Init Phase (apu_init.go)
+
 ###Redoing queue:
-####Medium:
-* APU: Init Phase
+#####Medium:
 * Skynet: the Virus
 * Heat Detector
 * The Paranoid Android
