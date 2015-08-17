@@ -20,10 +20,10 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 #####Medium:
 * APU: Init Phase (apu_init.go)
 * Skynet: the Virus (skynet_virus.go)
+* Heat Detector (heat.go)
 
 ###Redoing queue:
 #####Medium:
-* Heat Detector
 * The Paranoid Android
 
 > As you see, there's a lot for me to cover as far as my old (non-Go) solutions go. Now I'm mostly completing other challenges, but I will for sure redo each of solutions above.
