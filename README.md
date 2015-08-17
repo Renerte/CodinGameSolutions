@@ -21,14 +21,9 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 * APU: Init Phase (apu_init.go)
 * Skynet: the Virus (skynet_virus.go)
 * Heat Detector (heat.go)
+* The Paranoid Android (paranoid.go)
 
-###Redoing queue:
-#####Medium:
-* The Paranoid Android
-
-> As you see, there's a lot for me to cover as far as my old (non-Go) solutions go. Now I'm mostly completing other challenges, but I will for sure redo each of solutions above.
-
-> //UPDATE: All easy challenges are now available \o/ Off to medium ones!
+> All easy challenges are now available \o/ Also, all of my old solutions are now fully remade in Go!
 
 Thanks for visiting this repo :)
 [My CodinGame profile](https://www.codingame.com/profile/038dcafe98eef32a5b0f6a9f9bce3e30600888)
