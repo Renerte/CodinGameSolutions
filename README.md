@@ -1,5 +1,5 @@
 # CodinGameSolutions
-These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. Informations about non-Go solutions are below "Available Solutions"
+These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go.
 
 ###Available solutions:
 #####Tutorial:
@@ -10,7 +10,7 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 * The Descent (descent.go)
 * Skynet: the Chasm (skynet_chasm.go)
 * Temperatures (temperatures.go)
-* Mars Lander - Level 1 (lander.go - read included info before code itself)
+* Mars Lander - Level 1 (lander.go)
 * ASCII Art (ascii.go)
 * Chuck Norris (chuck.go)
 * MIME Type (mimetype.go)
@@ -22,6 +22,7 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go. 
 * Skynet: the Virus (skynet_virus.go)
 * Heat Detector (heat.go)
 * The Paranoid Android (paranoid.go)
+* Indiana - Level 1 (indiana.go)
 
 > All easy challenges are now available \o/ Also, all of my old solutions are now fully remade in Go!
 
