@@ -23,6 +23,7 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go.
 * Heat Detector (heat.go)
 * The Paranoid Android (paranoid.go)
 * Indiana - Level 1 (indiana.go)
+* Stock Exchange Losses (stock.go)
 
 > All easy challenges are now available \o/ Also, all of my old solutions are now fully remade in Go!
 
