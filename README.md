@@ -25,6 +25,7 @@ These are my solutions to [CodinGame](http://codingame.com) puzzles made in Go.
 * Indiana - Level 1 (indiana.go)
 * Stock Exchange Losses (stock.go)
 * Network Cabling (network.go)
+* Conway Sequence (conway.go)
 
 > All easy challenges are now available \o/ Also, all of my old solutions are now fully remade in Go!
 
